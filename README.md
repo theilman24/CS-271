@@ -1,2 +1,2 @@
 # CS-271
-Projects done in Data Structures (CS 271) using C++
+Projects done in Data Structures (CS 271) using C++ with write ups done using LaTex
