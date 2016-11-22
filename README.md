@@ -1,2 +1,2 @@
 # CS-271
-Projects done in Data Structures (CS 271) using C++ with write ups done using LaTex
+Compilation of projects and write ups evaluating what I have learned throughout my 2 years of being a computer science major
